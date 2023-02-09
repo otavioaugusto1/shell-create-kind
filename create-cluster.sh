@@ -2,13 +2,13 @@
 #
 # nome_do_script.sh - Breve descrição
 #
-# Autor:      Mateus Müller
+# Autor:      Otávio Nogueira
 #
 # ------------------------------------------------------------------------ #
 #  Descrição
 #
 #  Exemplos:
-#      $ ./nomedoscript.sh -d 1
+#      $ ./create-cluster.sh
 # ------------------------------------------------------------------------ #
 # Testado em:
 #   bash 5.1.8
